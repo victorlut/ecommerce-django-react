@@ -62,7 +62,6 @@ The project can be understood as a social network with <em><b>collections</b></e
 <details><summary><em><b>Store </b></em> (items)    </summary>
 <br>
 
-[<div style="text-align:center"><img src="https://github.com/israelias/cheathub/blob/master/public/MS3_Wireframes_01.jpg?raw=true" width="600px"></div>](https://github.com/israelias/cheathub/blob/master/public/MS3_Wireframes_01.jpg?raw=true)
 <br>
 </details>
 <hr>
@@ -71,7 +70,6 @@ The project can be understood as a social network with <em><b>collections</b></e
 <details><summary><em><b>Categories</b></em> (playlist)   </summary>
 <br>
 
-[<div style="text-align:center"><img src="https://github.com/israelias/cheathub/blob/master/public/MS3_Wireframes_02.jpg?raw=true" width="600px"></div>](https://github.com/israelias/cheathub/blob/master/public/MS3_Wireframes_02.jpg?raw=true)
 
 <br>
 </details>
@@ -81,16 +79,12 @@ The project can be understood as a social network with <em><b>collections</b></e
 <details><summary><em><b>Search</b></em> (filter)    </summary>
 <br>
 
-[<div style="text-align:center"><img src="https://github.com/israelias/cheathub/blob/master/public/MS3_Wireframes_03.jpg?raw=true" width="600px"></div>](https://github.com/israelias/cheathub/blob/master/public/MS3_Wireframes_03.jpg?raw=true)
-
 <br>
 </details>
 <hr>
 
 <details><summary><em><b>Membership/payments</b></em> (e-commerce)   </summary>
 <br>
-
-[<div style="text-align:center"><img src="https://github.com/israelias/cheathub/blob/master/public/MS3_Wireframes_02.jpg?raw=true" width="600px"></div>](https://github.com/israelias/cheathub/blob/master/public/MS3_Wireframes_02.jpg?raw=true)
 
 <br>
 </details>
@@ -139,17 +133,6 @@ The project can be understood as a social network with <em><b>collections</b></e
 - User profile page
 - Ability to add friends
 
-## Technologies
-### Frameworks and Libraries
-  - ### [`cd frontend`](https://github.com/israelias/django-react-ecommerce/tree/master/frontend)
-    Please visit the [frontend](https://github.com/israelias/django-react-ecommerce/tree/master/frontend) sub directory for details on ReactJS Typescript frameworks and libraries.\
-
-[Go to frontend](https://github.com/israelias/django-react-ecommerce/tree/master/frontend)
-
-  - ### [`cd backend`](https://github.com/israelias/django-react-ecommerce/tree/master/backend)
-    Please visit the [backend](https://github.com/israelias/django-react-ecommerce/tree/master/backend) root directory for details on Python-Django frameworks and libraries.
-
-[Go to backend](https://github.com/israelias/django-react-ecommerce/tree/master/backend)
 
 ### Programs and Software
 - [VSCode:](https://www.vscode.com/) Visual Studiio Code 2020.3.2 by [Microsoft](https://www.microsoft.com/) is the IDE used to locally construct the project
@@ -406,26 +389,6 @@ The project can be understood as a social network with <em><b>collections</b></e
 - Firefox 82
 - Opera 72
 - Safari 14
-
-## Deployment
-
-- The project frontend is written in [Typescript]() developed with [React](https://reactjs.org/), bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and deployed with [Vercel](https://nextjs.org/docs/deployment). The backend is written in [Python](), developed with [Django Rest Framework]() to serve a restful database via [PostGres](). 
-  ### [`cd frontend`](https://github.com/israelias/django-react-ecommerce/tree/master/frontend)
-  Please visit the [frontend](https://github.com/israelias/django-react-ecommerce/tree/master/frontend) root directory for details on deployment steps.
-  ### [`cd backend`](https://github.com/israelias/django-react-ecommerce/tree/master/backend)
-  Please visit the [backend](https://github.com/israelias/django-react-ecommerce/tree/master/backend) root directory for details on deployment steps.
-
-## Cloning This Repo
-- Clone this repo by running `git clone httpsL//github.com/israelias/django-react-ecommerce`
-- at the jump, `cd` to the name of this repo:
-`cd django-react-ecommerce`
-  ### [`cd frontend`](https://github.com/israelias/cheathub/tree/master/frontend)
-  Please visit the [frontend](https://github.com/israelias/cheathub/tree/master/frontend) root directory for details on required modules via `yarn install` and to start the frontend development server on `localhost:3000`.
-  ### [`cd backend`](https://github.com/israelias/cheathub/tree/master/backend)
-  Please visit the [backend](https://github.com/israelias/cheathub/tree/master/backend) root directory for details on required modules via `requirements.txt` and to start the backend development server on `localhost:8000`.
-
-[Go to frontend](https://github.com/israelias/django-react-ecommerce/tree/master/frontend)\
-[Go to backend](https://github.com/israelias/django-react-ecommerce/tree/master/backend)
 
 ## Credits
 
